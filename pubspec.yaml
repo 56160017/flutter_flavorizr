@@ -15,7 +15,7 @@ dependencies:
   checked_yaml: ^1.0.0
   io: ^0.3.4
   json_annotation: ^3.0.1
-  xml: ^3.6.1
+  xml: ^4.2.0
   yaml: ^2.2.0
 
 dev_dependencies:
